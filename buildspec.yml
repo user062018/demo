@@ -1,0 +1,5 @@
+version: 0.2
+
+env:
+  variables:
+    db_table: "test"
